@@ -48,7 +48,7 @@ public class PrimerAporte {
                     System.out.println("\n" + num + " SÍ es un número primo"); // ese número es primo, y enviamos un sms en pantalla
                 }
                 aux++; /*
-                Como lo dicho anteriormente el auxiliar que es que va ir verficando
+                Como lo dicho anteriormente el auxiliar que es que va ir verificando
                 que ese numero no sea multiplo de otro número
                 */
 
